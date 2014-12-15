@@ -1,0 +1,4 @@
+Revision 29 - Beginning of project 2 where task just as tracking, cli and convolution encode/decode implemented
+Revision 32 - Start of Project 2, Manage to configure NRD, getpasskey and control basic rover movement
+Revision 33 - Manage to configure NRD, getpasskey and control basic rover movement
+Revision 35 - Final Product Complete!
